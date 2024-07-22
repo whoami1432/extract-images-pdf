@@ -1,0 +1,28 @@
+{
+  "name": "extract-pdf-images",
+  "version": "1.0.4",
+  "description": "extract images from pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saravana saravanakumara512@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+  	"pdfjs-dist": "^2.11.338",
+		"sharp": "^0.33.2"
+  },
+  "keywords": [
+    "pdf",
+    "images",
+    "extract",
+    "PDF-image",
+    "pdf-image-extract",
+    "pdf-image-extractor",
+    "pdf-image-extractor-node",
+    "pdf-image-extractor-js",
+    "pdf-image-extractor-js-node",
+    "pdf-image-extractor-nodejs",
+    "pdf-image-extractor-nodejs-js"
+  ]
+}
